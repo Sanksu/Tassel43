@@ -1,0 +1,6 @@
+["Esc","1\n！\n\n\n\n\n\n\n\nQ","2\n@\n\n\n\n\n\n\n\nW","3\n#\n\n\n\n\n\n\n\nE","4\n$\n\n\n\n\n\n\n\nR","5\n%\n\n\n\n\n\n\n\nT","6\n^\n\n\n\n\n\n\n\nY","7\n&\n\n\n\n\n\n\n\nU","8\n*\n\n\n\n\n\n\n\nI","9\n(\n\n\n\n\n\n\n\nO","0\n)\n\n\n\n\n\n\n\nP","Back\n\n\n\n\n\nSpace"],
+[{w:1.25},"Tab",{a:7},"A","S","D","F","G","H","J","K","L",{w:1.75},"Enter"],
+[{a:4,w:1.75},"Shift",{a:7},"Z","X","C","V","B","N","M",{x:1.25,a:4},"↑"],
+[{w:1.25},"Ctrl","Win","Alt",{a:7,w:2.25},"",{w:2.25},"",{x:1.25,a:4},"←","↓","→"],
+[{rx:0.25,y:2,x:8.5,a:7,w:1.25},"UP",{x:1},"Del"],
+[{x:7.5,w:1.25},"Down"]
